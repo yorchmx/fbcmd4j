@@ -1312,3 +1312,6 @@
 2019-11-23 23:00:40.934 [main] ERROR org.fbcmd4j.Main - Invalid OAuth access token.
 2019-11-23 23:02:23.110 [main] INFO  org.fbcmd4j.Main - Iniciando app
 2019-11-23 23:02:30.195 [main] ERROR org.fbcmd4j.Main - Invalid OAuth access token.
+2019-11-23 23:16:21.355 [main] INFO  org.fbcmd4j.Main - Iniciando app
+2019-11-23 23:16:26.846 [main] ERROR org.fbcmd4j.Main - Invalid OAuth access token.
+2019-11-23 23:22:49.159 [main] INFO  org.fbcmd4j.Main - Iniciando app
