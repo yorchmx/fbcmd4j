@@ -68,7 +68,7 @@ public class Utils {
 		try {
 			URL url = new URL("https://graph.facebook.com/v2.6/device/login");
 	        Map<String,Object> params = new LinkedHashMap<>();
-	        params.put("access_token", "609846999214340|c16efd2b2078e908ccf148e686d0daef");
+	        params.put("access_token", "480481905907929|4e16df713ae8edfcd416d377ff531054");
 	        params.put("scope", props.getProperty("oauth.permissions"));
 
 	        StringBuilder postData = new StringBuilder();
@@ -109,7 +109,7 @@ public class Utils {
 
 		        URL url1 = new URL("https://graph.facebook.com/v2.6/device/login_status");
 		        params = new LinkedHashMap<>();
-		        params.put("access_token", "609846999214340|c16efd2b2078e908ccf148e686d0daef");
+		        params.put("access_token", "480481905907929|4e16df713ae8edfcd416d377ff531054");
 		        params.put("code", code);
 	
 		        postData = new StringBuilder();
