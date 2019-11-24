@@ -37,7 +37,7 @@ public class Main {
 			Scanner scan = new Scanner(System.in);
 			while(true) {
 				fb = Utils.configFacebook(props);
-				System.out.println("Cliente de Facebook en línea de comando por David Servín \n\n"
+				System.out.println("Cliente de Facebook en línea de comando por Jorge Manrique \n\n"
 								+  "Opciones: \n"
 								+  "(0) Configurar Cliente \n"
 								+  "(1) NewsFeed \n"
